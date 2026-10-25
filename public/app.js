@@ -1,5 +1,5 @@
 
-```javascript
+
 const storyEl = document.getElementById('story');
 const countEl = document.getElementById('count');
 const createBtn = document.getElementById('create-btn');
@@ -105,4 +105,4 @@ newBtn.addEventListener('click', () => {
   storyEl.value = '';
   countEl.textContent = '0';
 });
-```
+
