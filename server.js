@@ -1,4 +1,4 @@
-```javascript
+
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
@@ -76,4 +76,4 @@ app.post('/api/create-reel', rateLimit, async (req, res) => {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log('ReelMaker AI running on port ' + PORT));
-```
+
