@@ -1,5 +1,4 @@
 
-```css
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
@@ -46,4 +45,4 @@ textarea {
 .controls { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
 .controls button { padding: 12px 18px; }
 #reel-title { text-align: center; }
-```
+
